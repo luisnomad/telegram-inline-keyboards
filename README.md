@@ -43,10 +43,11 @@ The skill encodes strong opinions about keyboard UX:
 
 ```
 telegram-inline-keyboards/
-├── SKILL.md                      # Main skill (core concepts, pattern summaries, OpenClaw integration)
+├── telegram-inline-keyboards.skill  # Bundled skill package (install this)
+├── SKILL.md                         # Main skill (core concepts, pattern summaries, OpenClaw integration)
 ├── references/
-│   ├── patterns.md               # Full JSON examples for all 9 patterns + anti-patterns
-│   └── routing.md                # Pseudocode callback router + state machine + action handlers
+│   ├── patterns.md                  # Full JSON examples for all 9 patterns + anti-patterns
+│   └── routing.md                   # Pseudocode callback router + state machine + action handlers
 └── README.md
 ```
 
