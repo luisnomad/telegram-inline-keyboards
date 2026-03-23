@@ -1,5 +1,7 @@
 # telegram-inline-keyboards
 
+![Telegram Inline Keyboards](screenshot.jpg)
+
 An AI skill for generating Telegram Bot API inline keyboard JSON — from simple yes/no prompts to multi-step wizards and contextual action buttons.
 
 Framework-agnostic. Works with any Telegram bot (grammY, python-telegram-bot, raw HTTP) and has first-class [OpenClaw](https://openclaw.ai) integration.
